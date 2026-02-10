@@ -1,4 +1,4 @@
-# Olá, eu sou [Daniel Damasceno]! 👋
+# Olá, eu sou Daniel Damasceno! 👋
 
 Sou um **Desenvolvedor Full-Stack Júnior** voltado a criação de sistemas web e soluções eficientes. Atualmente moro em **Montes Claros, MG**.
 
