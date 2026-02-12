@@ -4,5 +4,5 @@ Sou um **Desenvolvedor Full-Stack Júnior** voltado a criação de sistemas web 
 
 ### 🚀 Sobre Mim
 * 💻 Minha stack principal é **PHP** e **Laravel**.
-* 🌱 Estou aprofundando meus conhecimentos em **JavaScript**, **React & NestJS** e **Infra/DevOps** (Deploy, Servidores).
+* 🌱 Estou aprofundando meus conhecimentos em **JavaScript**, **ReactJS & NestJS** e **Infra/DevOps**.
 * ⚙️ Tenho experiência prática na criação e contribuição em sistemas reais.
